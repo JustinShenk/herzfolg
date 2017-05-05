@@ -11,6 +11,8 @@ NOTE: Currently only at proof-of-concept stage.
 
 To run the demo on your computer install opencv with Python3 bindings.
 
+```python heart.py```
+
 ## TODO
 
 - [X] Add face-coloring features for live heartbeat display simulation
